@@ -54,6 +54,6 @@ def over?(board)
 end
 
 def winner?(index)
-  
+
 
 end
