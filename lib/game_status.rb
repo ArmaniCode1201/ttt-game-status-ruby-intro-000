@@ -59,5 +59,5 @@ if won?(board) == "X"
 elsif won?(board) == "O"
   return "O"
 else false
-end  
+end
 end
