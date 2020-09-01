@@ -62,7 +62,7 @@ else
   if board[index[0]] == "X"
   return "X"
 else
-  return "0"
-
+  return "O"
+end
 end
 end
