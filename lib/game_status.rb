@@ -53,7 +53,7 @@ def over?(board)
   end
 end
 
-def winner?(index)
+def winner?(board)
 if won?(board) == "X"
   return "X"
 elsif won?(board) == "O"
